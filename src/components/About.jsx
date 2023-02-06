@@ -14,23 +14,20 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          My name is KATHY TRAN and I am currently working as a Technical Project Manager but
+          also do several coding projects on the side. I completed my a full-stack coding 
+          bootcamp from Kenzie Academy. I plan to always learning and improving myself. What 
+          keeps me motivated and continue to explore the many different tech stacks is the 
+          ability to try and learn something new. 
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I love exploring new technologies and being a practitioner. I hvae two little ones
+          that inspried me everyday and in return, I wished to introduce them into the world
+          of technology. I like to stay on top of latest trends so with that being said, 
+          I am also very data driven. 
         </p>
       </div>
     </div>
