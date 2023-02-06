@@ -21,11 +21,11 @@ const Portfolio = () => {
       src: navbar,
     },
     {
-      id: 5,
+      id: 4,
       src: reactSmooth,
     },
     {
-      id: 4,
+      id: 5,
       src: installNode,
     },
     {
