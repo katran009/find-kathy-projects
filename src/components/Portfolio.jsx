@@ -55,7 +55,6 @@ const Portfolio = () => {
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
               />
-              </div>
             </div>
           ))}
         </div>
