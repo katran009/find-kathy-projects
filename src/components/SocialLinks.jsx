@@ -33,17 +33,6 @@ const SocialLinks = () => {
       ),
       href: "mailto:kathy.tran1305@gmail.com",
     },
-    {
-      id: 4,
-      child: (
-        <>
-          Resume <BsFillPersonLinesFill size={30} />
-        </>
-      ),
-      href: "/resume.pdf",
-      style: "rounded-br-md",
-      download: true,
-    },
   ];
 
   return (
