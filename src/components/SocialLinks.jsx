@@ -25,7 +25,7 @@ const SocialLinks = () => {
       href: "https://github.com/katran009",
     },
     {
-      id: 3,
+      id: 4,
       child: (
         <>
           Mail <HiOutlineMail size={30} />
